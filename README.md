@@ -15,7 +15,9 @@ Our team (Nien-Chun Yin, Wenjie Cai, Marcel Fernandez Rosas) achieved place 17 o
 We successfully implemented following algorithmns:
 
 * Q-learning
-* Deep Q-learning
-* Double Deep Q-learning
+* Deep Q Networks
+* Double Deep Q Networks
+* Dueling Deep Q Networks
+* Prioritized Experience Replay
 
 The code can be found in this repository. Keep exploring!

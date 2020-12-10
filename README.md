@@ -10,7 +10,7 @@ As the team Electric Sheep we participated in the [Flatland Challenge](https://w
 > logistics. This will be the first of a series of challenges related to re-scheduling and complex transportation systems.
 > -- <cite>SBB</cite>
 
-Our team (Nien-Chun Yin, Wenjie Cai, Marcel Fernandez Rosas) achieved place 17 on the worldwide leaderboard. During the challenge we learnt to solve a problem with reinforcement learning methods. We have acquired the theoretical foundations with books, online courses and whiteboard sessions.
+Our team (Nien-Chun Yin, Wenjie Cai, Marcel Fernandez Rosas) achieved place 17 in year 2019 and place 15 in year 2020 on the worldwide leaderboard. During the challenge we learnt to solve a problem with reinforcement learning methods. We have acquired the theoretical foundations with books, online courses and whiteboard sessions.
 
 We successfully implemented following algorithmns:
 
